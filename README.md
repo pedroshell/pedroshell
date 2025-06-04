@@ -6,3 +6,8 @@
 - 🛠️ Ferramentas: VSCode, Docker, Git, AWS
 - 👤 Pronomes: ele/dele
 
+<div>
+  <a href="https://github.com/pedroshell">
+  <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroshell)](https://github.com/anuraghazra/github-readme-stats)">
+  
+</div>
