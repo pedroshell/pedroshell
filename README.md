@@ -8,6 +8,6 @@
 
 <div>
   <a href="https://github.com/pedroshell">
-  <img height="180em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroshell&show_icons=true&theme=tokyonight)">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroshell&show_icons=true&theme=tokyonight)
   
 </div>
