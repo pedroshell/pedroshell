@@ -9,10 +9,7 @@
 <hr>
 
 GitHub Stats <br>
-<div width="180em">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroshell&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-<div width="180em">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroshell&layout=compact&theme=tokyonight)
-</div>
+
 
