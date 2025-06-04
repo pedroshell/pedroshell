@@ -1,3 +1,4 @@
-## Hi there 👋
-
-<h1>Pedro Angelus</h1>
+<h1
+style="color: gold;">
+    Pedro Angelus
+</h1>
