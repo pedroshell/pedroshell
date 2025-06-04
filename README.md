@@ -11,7 +11,7 @@
 
 <h4>GitHub Stats</h4>
 <img weight="180em" src="
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroshell&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  (https://github-readme-stats.vercel.app/api?username=pedroshell&show_icons=true&theme=tokyonight)(https://github.com/anuraghazra/github-readme-stats)
   ">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroshell&layout=compact&theme=tokyonight&langs_count=16)
 
