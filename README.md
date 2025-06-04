@@ -11,7 +11,7 @@
 
 <h4>GitHub Stats</h4>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroshell&theme=tokyonight&card_width=200)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroshell&theme=tokyonight&card_width=100)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroshell&layout=compact&theme=tokyonight&card_width=300)
 
 
