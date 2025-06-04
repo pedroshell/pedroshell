@@ -1,5 +1,5 @@
 ## Olá! Meu nome é Pedro Angelus.
-<h4>Sobre mim</h4>
+Sobre mim
 - 🎓 Cursando: Engenharia de Computação (7/10)
 - 💼 Ocupação atual: Especialista em Cloud Computing (AWS, Azure)
 - 🌱 Estudando: JavaScript, React & NextJS
