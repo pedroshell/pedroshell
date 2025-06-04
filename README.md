@@ -7,6 +7,6 @@
 - 👤 Pronomes: ele/dele
 
 <div>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroshell&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroshell)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
